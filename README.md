@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Solar Event - Microverse-Capstone-Project-HTML
 
-> One paragraph statement about the project.
+> This is an HTML and CSS solo project. On this HTML and CSS capstone project, I m building an online website for a solar energy event
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,9 +10,11 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML 5
+- CSS3
+- CSS-Grid
+- CSS-Flex
+- Bootstrap
 
 ## Live Demo
 
@@ -67,7 +69,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Many thanks to Cindy Shinfor the Design at Behance [@CindyShin](https://www.behance.net/adagio07)
 - Inspiration
 - etc
 
