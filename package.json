@@ -1,0 +1,24 @@
+{
+  "name": "microverse-capstone-project-html",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnyandoro/Microverse-Capstone-Project-HTML.git"
+  },
+  "author": "Tendai Nyandoro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tnyandoro/Microverse-Capstone-Project-HTML/issues"
+  },
+  "homepage": "https://github.com/tnyandoro/Microverse-Capstone-Project-HTML#readme",
+  "devDependencies": {
+    "hint": "^6.1.0",
+    "stylelint": "^13.7.2",
+    "stylelint-config-recommended": "^3.0.0"
+  }
+}
