@@ -7,7 +7,9 @@ body {
   line-height: 1.5;
   text-align: center;
 }
-
+.logo {
+  color: #ec5242;
+}
 img {
   display: block;
   width: 100%;
