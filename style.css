@@ -154,4 +154,10 @@ padding-bottom: -5%;
   color: #d3d3d3;
   font-size: medium;
   font-weight: 600;
+  background-color: #272a31;
+}
+/* section-d */
+.section-d .box {
+  padding: 2em;
+  color: #fff;
 }
