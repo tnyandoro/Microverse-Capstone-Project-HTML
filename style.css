@@ -89,6 +89,20 @@ p {
 }
 
 /* featured-section */
+
+.speaker-name {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color:#000;
+  padding-top: 2%;
+}
 .title-speaker {
 font-family: "cocogoose";
+color: #ec5242;
+font-style: italic;
+padding-bottom: -5%;
+}
+.person {
+  border: 1px solid #ec5242;
+  border-radius: 2px;
+  padding-top: 5%;
 }
