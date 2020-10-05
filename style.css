@@ -87,3 +87,8 @@ p {
 .section-a .content-wrap {
   padding: 0 1.5em;
 }
+
+/* featured-section */
+.title-speaker {
+font-family: "cocogoose";
+}
