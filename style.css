@@ -95,7 +95,7 @@ p {
 
 .showcase .content-wrap,
 .section-a .content-wrap {
-  padding: 0 1.5em;
+  padding: 0 2.5em;
 }
 
 /* section-a */
@@ -131,6 +131,13 @@ p {
 
 .card-content {
   padding: 1.5em;
+}
+.card-head {
+  font-size: 1em;
+  font-weight: 500;
+  color: #ec5242;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 /* Section C */
