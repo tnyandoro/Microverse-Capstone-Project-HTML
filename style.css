@@ -74,7 +74,16 @@ p {
   color: #fff;
   text-align: center;
 }
-
+.main-image :: after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: #333;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
 .showcase .main-image {
   position: absolute;
   background: #333
@@ -108,7 +117,6 @@ p {
   background-color: #272a31;
   color: #fff;
 }
-
 /* section-b */
 .section-b {
   padding: 2em 1em 1em;
@@ -140,7 +148,8 @@ p {
   text-transform: uppercase;
 }
 .cardp {
-  font-family: ;
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
 }
 /* Section C */
 
@@ -191,7 +200,7 @@ padding-bottom: -5%;
   .grid {
     display: grid;
     grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;
-    grid-gap: 2em;
+    
   }
 
   .main-program .content-text {
@@ -203,6 +212,9 @@ padding-bottom: -5%;
     padding-top: 0;
   }
 
+  .section-b {
+    background-color: #272a31;
+  }
   .content-wrap,
   .section-b ul {
     grid-column: 2/4;
@@ -210,7 +222,8 @@ padding-bottom: -5%;
 
   .section-b ul {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    background-image: repeating-linear-gradient(190deg,rgb(43, 43, 43),rgb(206, 206, 194) 7%,rgb(12, 12, 12) 10%);
   }
 
   .section-b li {
