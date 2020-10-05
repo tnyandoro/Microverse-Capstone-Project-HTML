@@ -100,6 +100,31 @@ p {
   padding: 2em 1em 1em;
 }
 
+
+.section-b ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.section-b li {
+  margin-bottom: 1em;
+  background: #fff;
+  color: #333;
+}
+
+.card-content {
+  padding: 1.5em;
+}
+
+/* Section C */
+
+#section-c {
+  background: #fff;
+  color: #333;
+  padding: 2em;
+}
+
 /* featured-section */
 
 .speaker-name {
