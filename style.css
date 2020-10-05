@@ -88,6 +88,12 @@ p {
   padding: 0 1.5em;
 }
 
+/* section-a */
+#section-a {
+  background: #eaeaea;
+  color: #272a31;
+  padding-bottom: 2em;
+}
 /* featured-section */
 
 .speaker-name {
@@ -108,6 +114,6 @@ padding-bottom: -5%;
 }
 
 /* Partners */
-/* .partner {
-  display: flex;
-} */
+.partner {
+  background-color: #272A31;
+}
