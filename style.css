@@ -89,11 +89,17 @@ p {
 }
 
 /* section-a */
-#section-a {
+.main-program {
   background: #eaeaea;
   color: #272a31;
   padding-bottom: 2em;
 }
+
+/* section-b */
+.section-b {
+  padding: 2em 1em 1em;
+}
+
 /* featured-section */
 
 .speaker-name {
