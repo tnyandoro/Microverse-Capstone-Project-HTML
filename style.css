@@ -58,9 +58,16 @@ p {
 }
 
 /* HEADER SECTION */
-.header-h1
-.header-h2{
+.header-h1 {
   color: #ec5242;
+  font-size: 2em;
+  font-weight: 900;
+}
+
+.header-h2 {
+  font-size: x-large;
+  font-weight: 700;
+  color: #ec5242
 }
 .showcase {
   min-height: 450px;
