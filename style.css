@@ -54,11 +54,13 @@ p {
 }
 
 .social-nav {
-
+ color: #fff;
 }
 
 /* HEADER SECTION */
-
+.header-h1{
+  color: #ec5242;
+}
 .showcase {
   min-height: 450px;
   color: #fff;
@@ -68,7 +70,7 @@ p {
 .showcase .bg-image {
   position: absolute;
   background: #333
-    url("../images/pexels-pixabay-433308.jpg");
+    url("https://static.pexels.com/photos/248515/pexels-photo-248515.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -174,12 +176,12 @@ padding-bottom: -5%;
     grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;
   }
 
-  .section-a .content-text {
+  .main-program .content-text {
     columns: 2;
     column-gap: 2em;
   }
 
-  .section-a .content-text p {
+  .main-program .content-text p {
     padding-top: 0;
   }
 
