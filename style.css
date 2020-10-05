@@ -94,6 +94,10 @@ p {
   color: #272a31;
   padding-bottom: 2em;
 }
+.bg {
+  background-color: #272a31;
+  color: #fff;
+}
 
 /* section-b */
 .section-b {
@@ -160,4 +164,36 @@ padding-bottom: -5%;
 .partners {
   padding: 2em;
   color: #fff;
+}
+
+/* Media Queries */
+
+@media (min-width: 700px) {
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;
+  }
+
+  .section-a .content-text {
+    columns: 2;
+    column-gap: 2em;
+  }
+
+  .section-a .content-text p {
+    padding-top: 0;
+  }
+
+  .content-wrap,
+  .section-b ul {
+    grid-column: 2/4;
+  }
+
+  .section-b ul {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .section-b li {
+    width: 31%;
+  }
 }
