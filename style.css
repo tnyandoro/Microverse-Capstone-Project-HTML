@@ -58,7 +58,8 @@ p {
 }
 
 /* HEADER SECTION */
-.header-h1{
+.header-h1
+.header-h2{
   color: #ec5242;
 }
 .showcase {
