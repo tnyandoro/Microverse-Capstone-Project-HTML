@@ -100,7 +100,9 @@ p {
   padding: 2em 1em 1em;
 }
 
-
+.content-title {
+  align-content: center;
+}
 .section-b ul {
   list-style: none;
   margin: 0;
@@ -119,7 +121,7 @@ p {
 
 /* Section C */
 
-#section-c {
+.section-c {
   background: #fff;
   color: #333;
   padding: 2em;
@@ -147,4 +149,9 @@ padding-bottom: -5%;
 /* Partners */
 .partner {
   background-color: #272A31;
+}
+.partner-title{
+  color: #d3d3d3;
+  font-size: medium;
+  font-weight: 600;
 }
