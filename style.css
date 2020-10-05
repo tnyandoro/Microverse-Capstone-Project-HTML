@@ -67,10 +67,10 @@ p {
   text-align: center;
 }
 
-.showcase .bg-image {
+.showcase .main-image {
   position: absolute;
   background: #333
-    url("https://static.pexels.com/photos/248515/pexels-photo-248515.png");
+    url("images/pexels-pixabay-433308.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
