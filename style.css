@@ -71,6 +71,9 @@ p {
 .header-p {
   font-size: 12px;
   color: #ec5242;
+  width: 300px;
+  background-color: #f7f5ec;
+
 }
 
 .header-h2 {
