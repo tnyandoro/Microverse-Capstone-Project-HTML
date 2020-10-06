@@ -305,6 +305,12 @@ padding-bottom: -5%;
   color: #ec5242;
 }
 
+/* about us page */
+
+.section-ab {
+  background-color: #d3d3d3;
+  border: 1px solid #ec5242;
+}
 /* Media Queries */
 
 @media (min-width: 700px) {
