@@ -301,7 +301,7 @@ padding-bottom: -5%;
 }
 /* section-d */
 .partners {
-  padding: 2em;
+  padding: 1em;
   color: #ec5242;
 }
 
@@ -310,6 +310,11 @@ padding-bottom: -5%;
 .section-ab {
   background-color: #d3d3d3;
  
+}
+
+.footer-rights {
+  font-size: small;
+  font-weight: 800;
 }
 /* Media Queries */
 
