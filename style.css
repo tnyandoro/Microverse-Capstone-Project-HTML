@@ -309,7 +309,7 @@ padding-bottom: -5%;
 
 .section-ab {
   background-color: #d3d3d3;
-  border: 1px solid #ec5242;
+ 
 }
 /* Media Queries */
 
@@ -327,6 +327,7 @@ padding-bottom: -5%;
   
   .margin {
     margin: 5px;
+    box-shadow: 5px 10px;
   }
   .main-program .content-text p {
     padding-top: 0;
@@ -346,6 +347,6 @@ padding-bottom: -5%;
     }
 
   .section-b li {
-    width: 31%;
+    width: 40%;
   }
 }
