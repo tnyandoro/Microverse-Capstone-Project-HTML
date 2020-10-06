@@ -18,7 +18,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://youthful-bartik-6c80b2.netlify.app/)
 
 
 ## Getting Started
@@ -56,7 +56,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/tnyandoro/Microverse-Capstone-Project-HTML/issues).
 
 ## Show your support
 
