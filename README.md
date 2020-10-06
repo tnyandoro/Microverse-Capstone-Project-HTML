@@ -4,7 +4,7 @@
 
 > This is an HTML and CSS solo project. On this HTML and CSS capstone project, I m building an online website for a solar energy event
 
-![screenshot](./app_screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/30318155/95214760-86338180-07f0-11eb-9952-96cea527f518.png)
 
 Additional description about the project and its features.
 
