@@ -16,6 +16,19 @@ Additional description about the project and its features.
 - CSS-Flex
 - Bootstrap
 
+## Steps Taken
+
+I used the Mobile first approach, made sure i added the viewport at the start of the page to make sure it takes up all devices width.
+Created divs and sections that are visible in the mobile section.
+Added bootstrap classes to sections that i needed to respond flawlessly in both desktop and mobile devices.
+i added all the content and images needed for the project.
+I also created cards for speakers and the program main.
+i called the main showcase through css and used the z-index to create an overlay of the showcase font, headings and paragraphs.
+i used grid to align and arrange the main program cards.
+i also used grid to create the speakers cards and used boostrap to make the responsive.
+i used flex for the partners logos and the sections are all responsive.
+I used grid to align content for the large screen together with a media query.
+
 ## Live Demo
 
 [Live Demo Link](https://youthful-bartik-6c80b2.netlify.app/)
@@ -29,18 +42,14 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
 ### Setup
 
+You need a current browser to view this Site
+
 ### Install
 
-### Usage
-
-### Run tests
-
-### Deployment
-
+No need to installl just click on the live link and the site will be openned in your default browser
 
 
 ## Authors
@@ -70,4 +79,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is has no licensed.
