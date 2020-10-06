@@ -332,6 +332,10 @@ p {
   font-weight: 800;
 }
 
+.footer-floor {
+  background-color: #ec5242;
+}
+
 /* Media Queries */
 
 @media (min-width: 700px) {
@@ -346,7 +350,7 @@ p {
     column-gap: 2em;
   }
 
-  .margin {
+  .gap {
     margin: 5px;
     box-shadow: 5px 10px;
     background-color: #ec5242;
