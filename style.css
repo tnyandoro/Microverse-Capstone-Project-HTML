@@ -140,6 +140,7 @@ p {
 
 .content-title {
   align-content: center;
+  text-decoration: underline;
 }
 
 .section-b ul {
@@ -367,7 +368,6 @@ p {
 
   .gap {
     margin: 5px;
-    
   }
 
   .main-program .content-text p {
