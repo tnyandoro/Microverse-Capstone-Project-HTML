@@ -76,7 +76,6 @@ p {
 .timedate {
   color: #000;
   font-size: 17px;
-
 }
 
 .header-p {
@@ -151,7 +150,7 @@ p {
 
 .section-b li {
   margin-bottom: 1em;
-  background: #5A585C;
+  background: #5a585c;
   color: #fff;
 }
 
@@ -265,11 +264,11 @@ p {
 
 .card-content {
   padding: 1.5em;
-  background-color: #5A585C;
+  background-color: #5a585c;
 }
 
 .facolor {
-  background-color: #5A585C;
+  background-color: #5a585c;
 }
 
 .card-head {
@@ -372,6 +371,7 @@ p {
   margin-right: auto;
   width: 50%;
 }
+
 .videos {
   display: flex;
 }
@@ -383,6 +383,7 @@ p {
 .past-event {
   margin-right: 1em;
 }
+
 /* Media Queries */
 
 @media (min-width: 768px) {
