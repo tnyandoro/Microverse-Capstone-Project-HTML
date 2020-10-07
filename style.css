@@ -376,6 +376,10 @@ p {
   display: flex;
 }
 
+.my-logo {
+  justify-content: center;
+}
+
 .past-event {
   margin-right: 1em;
 }
