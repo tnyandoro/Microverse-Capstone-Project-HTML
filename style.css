@@ -258,6 +258,7 @@ p {
 
 .contact {
   text-align: center;
+  background-color: #d3d3d3;
 }
 
 /* section-d */
@@ -298,8 +299,8 @@ p {
 }
 
 .past-event {
-justify-content: start;
-padding:10px;
+  justify-content: start;
+  padding: 10px;
 }
 
 /* Media Queries */
