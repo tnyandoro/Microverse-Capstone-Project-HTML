@@ -377,7 +377,7 @@ p {
 }
 
 .my-logo {
-  justify-content: center;
+  margin: auto;
 }
 
 .past-event {
