@@ -39,7 +39,9 @@ h3 {
   margin: 0;
   padding: 0 0;
 }
-
+h2 {
+  bottom: 3em;
+}
 p {
   margin: 0;
   padding: 1em 0;
