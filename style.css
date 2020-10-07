@@ -259,13 +259,19 @@ p {
   background-color: #f7f5ec;
 }
 
+.dashed {
+  border-style: dashed;
+}
+
 .card-content {
   padding: 1.5em;
   background-color: #5A585C;
 }
+
 .facolor {
   background-color: #5A585C;
 }
+
 .card-head {
   font-size: 1em;
   font-weight: 500;
@@ -298,6 +304,7 @@ p {
 .featured {
   margin: 0 20% 0 20%;
 }
+
 .speaker-name {
   font-family: 'Lato', sans-serif;
   font-weight: 800;
@@ -333,9 +340,11 @@ p {
   font-size: medium;
   font-weight: 600;
 }
+
 .contact {
   text-align: center;
 }
+
 /* section-d */
 .partners {
   padding: 1em;
@@ -357,6 +366,12 @@ p {
   background-color: #ec5242;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .videos {
   display: flex;
 }
