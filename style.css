@@ -39,9 +39,11 @@ h3 {
   margin: 0;
   padding: 0 0;
 }
+
 h2 {
   bottom: 3em;
 }
+
 p {
   margin: 0;
   padding: 1em 0;
@@ -69,8 +71,9 @@ p {
 /* HEADER SECTION */
 
 .white {
-  width: 300px;
+  width: 40vw;
   background-color: #f7f5ec;
+  opacity: 0.6;
 }
 
 .black {
@@ -79,8 +82,8 @@ p {
 
 .header-h1 {
   color: #ec5242;
-  font-size: 3em;
-  font-weight: 900;
+  font-size: 2em;
+  font-weight: 800;
   text-align: left;
   font-family: 'cocogoose_proregular', sans-serif;
 }
@@ -96,10 +99,13 @@ p {
 }
 
 .header-h2 {
+  font-family: 'cocogoose_proregular', sans-serif;
   font-size: x-large;
   font-weight: 700;
   color: #ec5242;
   text-align: left;
+  margin-bottom: -2em;
+  padding-top: 5%;
 }
 
 .showcase {
@@ -284,6 +290,7 @@ p {
 
 .videos {
   display: flex;
+  flex-direction: row;
 }
 
 .my-logo {
@@ -291,7 +298,8 @@ p {
 }
 
 .past-event {
-  margin-right: 1em;
+justify-content: start;
+padding:10px;
 }
 
 /* Media Queries */
@@ -333,5 +341,4 @@ p {
   .section-b li {
     width: 40%;
   }
-}
 }
