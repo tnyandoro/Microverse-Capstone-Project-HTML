@@ -357,6 +357,13 @@ p {
   background-color: #ec5242;
 }
 
+.videos {
+  display: flex;
+}
+
+.past-event {
+  margin-right: 1em;
+}
 /* Media Queries */
 
 @media (min-width: 768px) {
