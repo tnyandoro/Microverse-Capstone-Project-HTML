@@ -69,7 +69,9 @@ h2 {
   opacity: 0.6;
 }
 
-.black {
+.black,
+.timedate,
+.header-p {
   color: #000;
 }
 
@@ -80,28 +82,28 @@ h2 {
   font-family: 'cocogoose_proregular', sans-serif;
 }
 
-.header-h1 {
+.header-h1,
+.header-h2 {
+  text-align: left;
   color: #ec5242;
+}
+
+.header-h1 {
   font-size: 2em;
   font-weight: 800;
-  text-align: left;
 }
 
 .timedate {
-  color: #000;
   font-size: 14px;
 }
 
 .header-p {
   font-size: 12px;
-  color: #000;
 }
 
 .header-h2 {
   font-size: x-large;
   font-weight: 700;
-  color: #ec5242;
-  text-align: left;
   margin-bottom: -2em;
   padding-top: 5%;
 }
@@ -183,7 +185,6 @@ h2 {
 
 .card-content {
   padding: 1.5em;
-  background-color: #5a585c;
 }
 
 .card-head {
@@ -202,7 +203,6 @@ h2 {
 /* Section C */
 
 .section-c {
-  background: #fff;
   color: #333;
   padding: 2em;
 }
@@ -240,7 +240,8 @@ h2 {
   padding-top: 5%;
 }
 
-.speakers {
+.speakers,
+.section-c {
   background-color: #fff;
 }
 
@@ -306,7 +307,9 @@ h2 {
 
 @media (min-width: 768px) {
   .grid {
+    display: -ms-grid;
     display: grid;
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
     grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;
     grid-gap: 10px;
   }
