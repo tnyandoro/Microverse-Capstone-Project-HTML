@@ -13,7 +13,6 @@
 
 body {
   margin: 0;
-  font-family: 'cocogoose_proregular', sans-serif;
   background: #333;
   color: #fff;
   font-size: 1.1em;
@@ -23,7 +22,6 @@ body {
 
 .logo {
   color: #ec5242;
-  font-family: 'cocogoose_proregular', sans-serif;
   font-size: 3em;
 }
 
@@ -42,11 +40,6 @@ h3 {
 
 h2 {
   bottom: 3em;
-}
-
-p {
-  margin: 0;
-  padding: 1em 0;
 }
 
 .btn {
@@ -80,12 +73,18 @@ p {
   color: #000;
 }
 
+.cardp,
+.logo,
+.header-h1,
+.header-h2 {
+  font-family: 'cocogoose_proregular', sans-serif;
+}
+
 .header-h1 {
   color: #ec5242;
   font-size: 2em;
   font-weight: 800;
   text-align: left;
-  font-family: 'cocogoose_proregular', sans-serif;
 }
 
 .timedate {
@@ -99,7 +98,6 @@ p {
 }
 
 .header-h2 {
-  font-family: 'cocogoose_proregular', sans-serif;
   font-size: x-large;
   font-weight: 700;
   color: #ec5242;
@@ -168,8 +166,13 @@ p {
 
 .section-b li {
   margin-bottom: 1em;
-  background: #5a585c;
   color: #fff;
+}
+
+.section-b li,
+.card-content,
+.facolor {
+  background-color: #5a585c;
 }
 
 /* Card section */
@@ -180,10 +183,6 @@ p {
 
 .card-content {
   padding: 1.5em;
-  background-color: #5a585c;
-}
-
-.facolor {
   background-color: #5a585c;
 }
 
