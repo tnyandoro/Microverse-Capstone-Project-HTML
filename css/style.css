@@ -292,7 +292,7 @@ h2 {
 }
 
 .mobile {
-font-size: 0.8em;
+  font-size: 0.8em;
 }
 
 .my-flex {
@@ -304,6 +304,7 @@ font-size: 0.8em;
   text-align: start;
   font-size: smaller;
 }
+
 .my-logo {
   margin: auto;
 }
