@@ -95,6 +95,10 @@ h2 {
   font-family: 'cocogoose_proregular', sans-serif;
 }
 
+.card {
+  height: calc(100% - 15px);
+}
+
 .header-h1,
 .header-h2 {
   text-align: left;
