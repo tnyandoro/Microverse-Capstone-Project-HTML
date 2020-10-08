@@ -13,12 +13,17 @@
 
 body {
   margin: 0;
-  background: #333;
   font-size: 1.1em;
   line-height: 1.5;
   text-align: center;
 }
 
+.btn,
+.body {
+  background: #333;
+}
+
+.mobile,
 .logo,
 .header-h1,
 .header-h2,
@@ -51,7 +56,6 @@ h2 {
 
 .btn {
   display: inline-block;
-  background: #333;
   text-decoration: none;
   padding: 1em 2em;
   border: 1px solid #666;
@@ -86,6 +90,7 @@ h2 {
   color: #000;
 }
 
+.mobile,
 .title-speaker,
 .cardp,
 .logo,
@@ -128,7 +133,7 @@ h2 {
   position: absolute;
   background:
     #333
-    url("images/renewable-1989416_1920.jpg");
+    url("../images/renewable-1989416_1920.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -180,6 +185,7 @@ h2 {
   margin-bottom: 1em;
 }
 
+.mobile,
 .section-b li,
 .card-content,
 .facolor {
@@ -232,7 +238,7 @@ h2 {
   padding-top: 2%;
 }
 
-.title-speaker {  
+.title-speaker {
   font-style: italic;
   font-size: 12px;
   padding-bottom: -5%;
@@ -285,11 +291,19 @@ h2 {
   width: 50%;
 }
 
-.videos {
+.mobile {
+font-size: 0.8em;
+}
+
+.my-flex {
   display: flex;
   flex-direction: row;
 }
 
+.mobile-cards {
+  text-align: start;
+  font-size: smaller;
+}
 .my-logo {
   margin: auto;
 }
