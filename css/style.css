@@ -66,7 +66,7 @@ h2 {
 /* HEADER SECTION */
 
 .white {
-  width: 50vw;
+  width: 40vw;
   background-color: #f7f5ec;
   opacity: 0.6;
 }
@@ -249,18 +249,6 @@ h2 {
   padding: 1.5em;
 }
 
-/*
-.card-head {
-  font-size: 1em;
-  font-weight: 500;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-.cardp {
-  font-size: 12px;
-}
-
 /* Section C */
 
 .section-c {
@@ -399,9 +387,5 @@ h2 {
   .section-b ul {
     display: flex;
     justify-content: space-around;
-  }
-
-  .section-b li {
-    width: 40%;
   }
 }
