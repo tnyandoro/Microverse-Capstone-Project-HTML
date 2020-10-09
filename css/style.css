@@ -180,6 +180,15 @@ h2 {
   background-color: #5a585c;
 }
 
+.about {
+  background-color: #f7f7f7;
+}
+
+.about-h1 {
+  font-size: 4em;
+  font-weight: 600;
+}
+
 /* Card section */
 
 .dashed {
@@ -257,7 +266,7 @@ h2 {
 }
 
 /* about us page */
-.contact,
+
 .section-ab {
   background-color: #d3d3d3;
 }
