@@ -1,65 +1,66 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Solar Event - Microverse-Capstone-Project-HTML
 
-> One paragraph statement about the project.
+> This is an HTML and CSS solo project. On this HTML and CSS capstone project, I m building an online website for a solar energy event
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/30318155/95441034-f1e52e00-0959-11eb-8c09-624c7c3066ec.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML 5
+- CSS3
+- CSS-Grid
+- CSS-Flex
+- Bootstrap
+
+## Steps Taken
+
+I used the Mobile first approach, made sure i added the viewport at the start of the page to make sure it takes up all devices width.
+Created divs and sections that are visible in the mobile section.
+Added bootstrap classes to sections that i needed to respond flawlessly in both desktop and mobile devices.
+I added all the content and images needed for the project.
+I also created cards for speakers and the program main.
+I called the main showcase through css and used the z-index to create an overlay of the showcase font, headings and paragraphs.
+I used grid to align and arrange the main program cards.
+I also used grid to create the speakers cards and used boostrap to make the responsive.
+I used flex for the partners logos and the sections are all responsive.
+I used grid to align content for the large screen together with a media query.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://youthful-bartik-6c80b2.netlify.app/)
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
 ### Setup
 
+You need a current browser to view this Site
+
 ### Install
 
-### Usage
-
-### Run tests
-
-### Deployment
-
+No need to installl just click on the live link and the site will be openned in your default browser
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@Tendai Nyandoro](https://github.com/tnyandoro)
+- Twitter: [@tendai28](https://twitter.com/tendai28)
+- LinkedIn: [Tendai Nyandoro](https://www.linkedin.com/in/tendai-nyandoro-a8060826/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/tnyandoro/Microverse-Capstone-Project-HTML/issues).
 
 ## Show your support
 
@@ -67,10 +68,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Many thanks to Cindy Shinfor the Design at Behance [@CindyShin](https://www.behance.net/adagio07)
 - Inspiration
 - etc
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is has no licensed.
