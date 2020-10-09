@@ -142,6 +142,11 @@ h2 {
   padding: 0 2.5em;
 }
 
+.container,
+main {
+  overflow-x: hidden;
+}
+
 /* section-a */
 .main-program {
   background: #eaeaea;
@@ -203,6 +208,11 @@ h2 {
 
 .dashed {
   border-style: dashed;
+}
+
+.footer,
+.page-footer {
+  overflow: hidden;
 }
 
 .prog {
