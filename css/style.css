@@ -66,7 +66,7 @@ h2 {
 /* HEADER SECTION */
 
 .white {
-  width: 40vw;
+  width: 50vw;
   background-color: #f7f5ec;
   opacity: 0.6;
 }
@@ -189,6 +189,16 @@ h2 {
   font-weight: 600;
 }
 
+.join {
+  margin: 2%;
+}
+
+.join-text {
+  font-size: 1em;
+  padding: 2%;
+  text-align: center;
+}
+
 /* Card section */
 
 .dashed {
@@ -276,6 +286,7 @@ h2 {
   font-weight: 800;
 }
 
+.join,
 .footer-floor {
   background-color: #ec5242;
 }
